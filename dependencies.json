@@ -1,0 +1,58 @@
+{
+  "System": {
+	"System\\Newtonsoft.Json.dll": {
+      "MD5": "a6be9efdaa744e9947f4ee18de5423bd",
+      "Download": "https://github.com/WeScript/WeScript.Dependencies/raw/master/System/Newtonsoft.Json.dll",
+      "Version": "10.0.2.20802"
+    },
+	"System\\SharpDX.Direct3D9.dll": {
+      "MD5": "53a492085dcae951d8baffef413be32f",
+      "Download": "https://github.com/WeScript/WeScript.Dependencies/raw/master/System/SharpDX.Direct3D9.dll",
+      "Version": "4.0.1"
+    },
+	"System\\SharpDX.dll": {
+      "MD5": "9b6ba40b44bdaaf2f6f712047d89b6a3",
+      "Download": "https://github.com/WeScript/WeScript.Dependencies/raw/master/System/SharpDX.dll",
+      "Version": "4.0.1"
+    },
+	"System\\SharpDX.Mathematics.dll": {
+      "MD5": "551070a80b922abb2aa1e8544a499453",
+      "Download": "https://github.com/WeScript/WeScript.Dependencies/raw/master/System/SharpDX.Mathematics.dll",
+      "Version": "4.0.1"
+    },
+	"System\\SharpDX.XInput.dll": {
+      "MD5": "b254be74e4e4ee39df1048a1fbfe50d4",
+      "Download": "https://github.com/WeScript/WeScript.Dependencies/raw/master/System/SharpDX.XInput.dll",
+      "Version": "4.0.1"
+    },
+    "System\\WeScript.Sandbox.dll": {
+      "MD5": "b262648a93f879be24042b6e1ab1272f",
+      "Download": "https://github.com/WeScript/WeScript.Dependencies/raw/master/System/WeScript.Sandbox.dll",
+      "Version": "1.0.0.0"
+    },
+    "System\\WeScript.SDK.dll": {
+      "MD5": "4462edf11358077433bab8800f29be3e",
+      "Download": "https://github.com/WeScript/WeScript.Dependencies/raw/master/System/WeScript.SDK.dll",
+      "Version": "1.0.0.0"
+    }
+  },
+  "Core": {
+    "13371337133713371337133713371337": {
+      "Files": {
+        "System\\WeScript.Core.dll": {
+          "MD5": "a239855fdec89f72c211d3861af1519b",
+          "Download": "https://github.com/WeScript/WeScript.Dependencies/raw/master/Core/WeScript.Core.dll"
+        },
+        "System\\WeScript.Wrapper.dll": {
+          "MD5": "2c2346abc7a4d1e353663f21b0dadccb",
+          "Download": "https://github.com/WeScript/WeScript.Dependencies/raw/master/Core/WeScript.Wrapper.dll",
+          "Version": "1.0.0.0"
+        }
+      }
+    }
+  },
+  "Loader": {
+    "Version": "1.0.0.21",
+    "Download": "https://github.com/WeScript/WeScript.Dependencies/raw/master/Loader/WeScript-update.exe"
+  }
+}
