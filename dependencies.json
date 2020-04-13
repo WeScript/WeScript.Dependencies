@@ -36,12 +36,12 @@
       "Version": "1.0.0.0"
     },
     "System\\WeScript.Sandbox.dll": {
-      "MD5": "de76a3afa4fb3f7c17d817d9b6eff51b",
+      "MD5": "791e90e5980f2b57b2e23ffcd8af10b1",
       "Download": "https://github.com/WeScript/WeScript.Dependencies/raw/master/System/WeScript.Sandbox.dll",
       "Version": "1.0.0.0"
     },
     "System\\WeScript.SDK.dll": {
-      "MD5": "746eac1732866944a4a44ff231c65706",
+      "MD5": "2b55789ef12dcb669dfddc18d5ed0287",
       "Download": "https://github.com/WeScript/WeScript.Dependencies/raw/master/System/WeScript.SDK.dll",
       "Version": "1.0.0.0"
     }
