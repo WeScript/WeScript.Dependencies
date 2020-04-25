@@ -1,0 +1,191 @@
+WESCRIPT.APP LOADER APPLICATION
+END USER LICENSE AGREEMENT
+
+IMPORTANT! PLEASE READ CAREFULLY.
+
+THIS SOFTWARE IS LICENSED, NOT SOLD. BY INSTALLING, COPYING OR OTHERWISE USING THE 
+PROGRAM (DEFINED BELOW), YOU AGREE TO BE 
+BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THE TERMS OF THIS 
+AGREEMENT, YOU ARE NOT PERMITTED TO INSTALL, 
+COPY OR USE THE PROGRAM. 
+
+This software program, and any files that are delivered to you by WESCRIPT.APP. (via on-line transmission, 
+forums or 
+otherwise) to "patch," update, or otherwise modify the software program, as well as any printed materials and any 
+on-line or 
+electronic documentation (the "Forums"), and any and all copies and derivative works of such software program 
+and Manual 
+(collectively, with the "Program Client" defined below, the "Program") is the copyrighted work of WESCRIPT.APP or its 
+licensors (collectively referred to herein as "WSA"). Any and all uses of the Program are governed by the terms of 
+this End User License Agreement (the "License Agreement" or "Agreement"). The Program is distributed solely 
+for use by 
+authorized end users according to the terms of this License Agreement. Any use, reproduction, modification or 
+distribution 
+of the Program not expressly authorized by the terms of the License Agreement is expressly prohibited.
+
+   1.
+      Grant of a Limited Use License.
+      If you agree to this License Agreement, you may install the computer software (hereafter referred to as the 
+"WSA") 
+onto your computer for purposes of using Assembly(Assemblies) by registering for and accessing an account with WESCRIPT.APP (the 
+"Forum Account"). Subject to your agreement to and continuing compliance with this License Agreement, 
+WESCRIPT.APP hereby 
+grants, and you hereby accept, a limited, non-exclusive license to (a) install the "WSA" on one computer 
+owned by you or 
+under your legitimate control, and (b) use the "WSA" in conjunction with your Forum Account for your non-
+commercial 
+entertainment purposes only. All use of the Loader is subject to this License Agreement and to the Terms of Use 
+agreement, 
+both of which you must accept before you can use your Forum Account to play the game using the assembly(assemblies).
+
+   2.
+      Additional License Limitations.
+      The license granted to you in Section 1 is subject to the limitations set forth in Sections 1 and 2 (collectively, 
+the 
+"License Limitations"). Any use of the "WSA" in violation of the License Limitations will be regarded as an 
+infringement of 
+WESCRIPT.APP copyrights in and to the "WSA". You agree that you will not, under any circumstances:
+
+          A. in whole or in part, copy, photocopy, reproduce, translate, reverse engineer, derive source code from, 
+modify, 
+disassemble, decompile, or create derivative works based on the "WSA";
+
+          B. use any unauthorized third-party software that intercepts, "mines", or otherwise collects information from 
+or 
+through the "WSA" or the WESCRIPT.APP Service;
+
+          C. modify or cause to be modified any files that are a part of the "WSA" in any way not expressly 
+authorized by 
+WESCRIPT.APP;
+
+          D. facilitate, create or maintain any unauthorized connection to the "WSA" or Forums, including 
+without 
+limitation (a) any connection to any unauthorized server that emulates, or attempts to emulate, the Service; and 
+(b) any 
+connection using programs or tools not expressly approved by WESCRIPT.APP; or
+
+          E. sell, grant a security interest in or transfer reproductions of the "WSA" to other parties in any way 
+not 
+expressly authorized herein, or rent, lease or license the "WSA" to others.
+
+   3.
+      Service and Terms of Use.
+      You must accept the Terms of Use in order to access the Service and use the "WSA". The Terms of Use 
+agreement governs 
+all aspects of game play. If you do not agree with the Terms of Use, then (a) you must delete the "WSA".
+
+   4.
+      Ownership.
+
+          A. All title, ownership rights and intellectual property rights in and to the "WSA" and all copies thereof 
+(including without limitation any titles, computer code, themes, objects, logos, and any related documentation) 
+are owned or 
+licensed by WESCRIPT.APP. The "WSA" is protected by the copyright laws of international treaties and 
+conventions, and 
+other laws. 
+
+   5.
+      Pre-Loaded Software.
+      The media on which the Loader is distributed will download additional software and/or content for which you 
+do not 
+have a license (the "Locked Software"), and you agree that WESCRIPT.APP may install the Locked 
+Software onto your hard 
+drive during the "WSA" Client installation process. You also agree that you will not access, use, distribute, 
+copy, 
+display, reverse engineer, derive source code from, modify, disassemble, decompile any Locked Software, or 
+create any 
+derivative works based on the Locked Software.
+
+   6.
+      Termination.
+      This License Agreement is effective until terminated. You may terminate the License Agreement at any time 
+by (i) 
+permanently destroying all copies of the "WSA" in your possession or control; (ii) removing the "WSA" & 
+Software from your 
+hard drive; and (iii) notifying WESCRIPT.APP of your intention to terminate this License Agreement. You must 
+also contact 
+WESCRIPT.APP and ask for deletion of your Forum Account. WESCRIPT.APP may terminate this 
+Agreement at any time for any 
+reason or no reason. Upon termination for any reason, all licenses granted herein shall immediately terminate and 
+you must 
+immediately and permanently destroy all copies of the "WSA" & Software in your possession and control and 
+remove the "WSA" from your hard drive.
+
+   7.
+      Export Controls.
+      The "WSA" may not be re-exported, downloaded or otherwise exported into (or to a national or resident 
+of) any country 
+to which the U.S. has embargoed goods, or to anyone on the U.S. Treasury Department's list of Specially 
+Designated Nationals 
+or the U.S. Commerce Department's Table of Denial Orders. You represent and warrant that you are not located 
+in, under the 
+control of, or a national or resident of any such country or on any such list.
+
+   8.
+      Patches and Updates.
+      WESCRIPT.APP may deploy or provide patches, updates and modifications to the "WSA" that must 
+be installed for the user to continue to use the assembly(assemblies). WESCRIPT.APP may update the "WSA" remotely 
+including without limitation the Client residing on the user's machine, without the knowledge of the user, and you 
+hereby grant to WESCRIPT.APP your consent to deploy and apply such patches, updates and modifications.
+
+   9.
+      Limitation of Liability, Indemnity.
+      NEITHER WESCRIPT.APP NOR ITS PARENT, SUBSIDIARIES OR AFFILIATES SHALL BE LIABLE IN 
+ANY WAY FOR ANY LOSS OR DAMAGE 
+OF ANY KIND ARISING OUT OF THE LOADER OR ANY USE OF THE LOADER, INCLUDING WITHOUT 
+LIMITATION LOSS OF DATA, LOSS OF GOODWILL, 
+WORK STOPPAGE, COMPUTER FAILURE OR MALFUNCTION, OR ANY AND ALL OTHER DAMAGES OR 
+LOSSES. FURTHER, NEITHER WESCRIPT.APP NOR 
+ITS PARENT, SUBSIDIARIES OR AFFILIATES SHALL BE LIABLE IN ANY WAY FOR ANY LOSS OR 
+DAMAGE TO PLAYER CHARACTERS, VIRTUAL GOODS 
+(E.G., ARMOR, WEAPONS, ETC.) OR ACCOUNTS, STATISTICS, OR USER STANDINGS, RANKS, OR 
+PROFILE INFORMATION STORED BY THE GAME 
+AND/OR THE SERVICE YOU USED "WSA LOADER". WESCRIPT.APP SHALL NOT BE RESPONSIBLE FOR ANY 
+INTERRUPTIONS OF SERVICE, INCLUDING WITHOUT 
+LIMITATION ISP DISRUPTIONS, SOFTWARE OR HARDWARE FAILURES, OR ANY OTHER EVENT 
+WHICH MAY RESULT IN A LOSS OF DATA OR 
+DISRUPTION OF SERVICE. IN NO EVENT WILL WESCRIPT.APP BE LIABLE TO YOU FOR ANY 
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY OR 
+CONSEQUENTIAL DAMAGES. You hereby agree to defend, indemnify and hold WESCRIPT.APP harmless 
+from and against 
+any claim, liability, loss, injury, damage, cost or expense (including reasonable attorneys' fees) incurred by 
+WESCRIPT.APP arising out of or from your use of the "WSA" & Forums.
+
+  10.
+      Equitable Remedies.
+      You hereby agree that WESCRIPT.APP would be irreparably damaged if the terms of this License 
+Agreement were not specifically enforced, and therefore you agree that WESCRIPT.APP shall be entitled, 
+without bond, other security, or 
+proof of damages, to appropriate equitable remedies with respect to breaches of this License Agreement, in 
+addition to such 
+other remedies as WESCRIPT.APP may otherwise have available to it under applicable laws. In the event any 
+litigation is 
+brought by either party in connection with this License Agreement, the prevailing party in such litigation shall be 
+entitled 
+to recover from the other party all the costs, attorneys' fees and other expenses incurred by such prevailing party 
+in the 
+litigation.
+
+  11.
+      Changes to the Agreement.
+      WESCRIPT.APP reserves the right, at its sole discretion, to change, modify, add to, supplement or delete 
+any of the 
+terms and conditions of this License Agreement when WESCRIPT.APP upgrades the "WSA", effective 
+upon prior notice. If any future changes to this License Agreement are unacceptable 
+to you or cause you to no longer be in compliance with this License Agreement, you may terminate this License 
+Agreement in 
+accordance with Section 6 herein. Your installation and use of any of WESCRIPT.APP's updates or 
+modifications to the 
+"WSA" or your continued use of the "WSA" following notice of changes to this Agreement will 
+demonstrate your acceptance of any and all such changes. WESCRIPT.APP may change, modify, suspend, 
+or discontinue any aspect of the "WSA" at any time. 
+WESCRIPT.APP may also impose limits on certain features or restrict your access to parts or all of the "WSA" or Forum 
+without notice or liability. You have no interest, monetary or otherwise, in any feature or content contained in the 
+Loader 
+and Forum.
+
+I hereby acknowledge that I have read and understand the foregoing License Agreement and agree that by 
+clicking "Accept" or 
+installing the "WSA" Client I am acknowledging my agreement to be bound by the terms and conditions of 
+this License 
+Agreement.
