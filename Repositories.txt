@@ -13,7 +13,7 @@ Developers
 
 Contributors
 ------------
-<repo>https://github.com/WeScript/WeScript.Assemblies</repo>
+<repo>https://github.com/placeholder_for_contributors</repo>
 
 Known Users
 -----------
