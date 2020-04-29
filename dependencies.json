@@ -54,7 +54,7 @@
           "Download": "https://github.com/WeScript/WeScript.Dependencies/raw/master/Core/WeScript.Core.dll"
         },
         "System\\WeScript.Wrapper.dll": {
-          "MD5": "4c68c322b2c605b6176c37be87fe54b1",
+          "MD5": "20bedd8d3a9cd3d9f851ec1cacd3c4b4",
           "Download": "https://github.com/WeScript/WeScript.Dependencies/raw/master/Core/WeScript.Wrapper.dll",
           "Version": "1.0.0.0"
         }
