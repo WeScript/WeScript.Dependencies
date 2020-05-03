@@ -1,1 +1,1 @@
-# WeScript.Dependencies
+# https://wescript.app/ WeScript.Dependencies
