@@ -36,12 +36,12 @@
       "Version": "1.0.0.0"
     },
     "System\\WeScript.Sandbox.dll": {
-      "MD5": "b21494523f9a7d948d4c970a66dbfa68",
+      "MD5": "cc607c7f9658ef898d706c618be8cf90",
       "Download": "https://github.com/WeScript/WeScript.Dependencies/raw/master/System/WeScript.Sandbox.dll",
       "Version": "1.0.0.0"
     },
     "System\\WeScript.SDK.dll": {
-      "MD5": "850cb5b6d964adbb8697bdba05ac5fe5",
+      "MD5": "ae866504ffce66416612adfe4f4bd1d5",
       "Download": "https://github.com/WeScript/WeScript.Dependencies/raw/master/System/WeScript.SDK.dll",
       "Version": "1.0.0.0"
     }
@@ -50,11 +50,11 @@
     "13371337133713371337133713371337": {
       "Files": {
         "System\\WeScript.Core.dll": {
-          "MD5": "d97ac7f9106e39a89cf61df9f3a54809",
+          "MD5": "2ec4af9d55971b32f46d4ad674502315",
           "Download": "https://github.com/WeScript/WeScript.Dependencies/raw/master/Core/WeScript.Core.dll"
         },
         "System\\WeScript.Wrapper.dll": {
-          "MD5": "d1d58cc4ee028cfdff37d6f60297feab",
+          "MD5": "f0a91848754fae88042133c7e96d73c6",
           "Download": "https://github.com/WeScript/WeScript.Dependencies/raw/master/Core/WeScript.Wrapper.dll",
           "Version": "1.0.0.0"
         }
