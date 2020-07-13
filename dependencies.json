@@ -62,7 +62,7 @@
     }
   },
   "Loader": {
-    "Version": "1.0.1.4",
+    "Version": "1.0.1.5",
     "Download": "https://github.com/WeScript/WeScript.Dependencies/raw/master/Loader/WeScript-update.exe"
   }
 }
