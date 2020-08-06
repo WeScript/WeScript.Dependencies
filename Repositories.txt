@@ -10,6 +10,7 @@ Trusted Groups
 
 Developers
 ----------
+<repo>https://github.com/GameHackerPM/WeScriptsAddons</repo>
 
 Contributors
 ------------
