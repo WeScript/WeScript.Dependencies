@@ -14,7 +14,7 @@ Developers
 
 Contributors
 ------------
-<repo>https://github.com/placeholder_for_contributors</repo>
+<repo>https://github.com/Inspired-gos/we-script</repo>
 
 Known Users
 -----------
