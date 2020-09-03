@@ -15,7 +15,6 @@ Developers
 Contributors
 ------------
 <repo>https://github.com/Inspired-gos/we-script</repo>
-<repo>https://github.com/jeremwhitten/WEScript</repo>
 
 Known Users
 -----------
