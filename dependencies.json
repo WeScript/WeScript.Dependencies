@@ -50,7 +50,7 @@
     "13371337133713371337133713371337": {
       "Files": {
         "System\\WeScript.Core.dll": {
-          "MD5": "d571fb2dfe84f271fe6b399571f74dd3",
+          "MD5": "bc2f8cf1333fe6b5c377a154453cd129",
           "Download": "https://github.com/WeScript/WeScript.Dependencies/raw/master/Core/WeScript.Core.dll"
         },
         "System\\WeScript.Wrapper.dll": {
